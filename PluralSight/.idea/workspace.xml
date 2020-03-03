@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adaf0252-3359-43f4-ac64-8ce55f69357d" name="Default Changelist" comment="nitrite database">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/NO2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/NitriteSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/NitriteTestDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/NitriteUnitOfWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/NitriteUnitOfWorkWithResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/aggregate/CustomerAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/aggregate/CustomerAggregateOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/CustomerAddressDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/CustomerDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/CustomerProductPurchaseHistoryDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/FibonacciNumberDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/ProductCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/dataaccess/ProductDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/datasets/NitriteCustomerDatabaseSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/datasets/NitriteFibonacciSequenceSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/datasets/NitriteGreekAlphabetSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/CustomerAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/CustomerProductPurchaseHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/LetterPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/nitrite/utility/NitriteFlowableCursorState.java" afterDir="false" />
+    <list default="true" id="adaf0252-3359-43f4-ac64-8ce55f69357d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ResourceExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +54,7 @@
       <recent name="C:\Work\Back\RxJava\PluralSight\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConnectableObservableExample2">
-    <configuration name="ColdObservableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ColdObservableExample" />
-      <module name="rx_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ResourceExample1">
     <configuration name="ConnectableObservableExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConnectableObservableExample1" />
       <module name="rx_java" />
@@ -106,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ResourceExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ResourceExample1" />
+      <module name="PluralSight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubscribeOnObserveOnExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SubscribeOnObserveOnExample1" />
       <module name="rx_java" />
@@ -115,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ResourceExample1" />
         <item itemvalue="Application.ConnectableObservableExample2" />
         <item itemvalue="Application.ConnectableObservableExample1" />
         <item itemvalue="Application.SubscribeOnObserveOnExample1" />
         <item itemvalue="Application.HotObservableExample" />
-        <item itemvalue="Application.ColdObservableExample" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +111,26 @@
       <option name="presentableId" value="Default" />
       <updated>1583153366068</updated>
     </task>
+    <task id="LOCAL-00001" summary="nitrite database">
+      <created>1583220738511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583220738511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nitrite database" />
@@ -145,34 +141,34 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="178" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583155060081" />
-    <state x="2534" y="114" key="CommitChangelistDialog2" timestamp="1583220702590">
+    <state x="2534" y="114" key="CommitChangelistDialog2" timestamp="1583220737795">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2534" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583220702590" />
+    <state x="2534" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583220737795" />
     <state x="2134" y="159" key="FileChooserDialogImpl" timestamp="1583154940904">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2134" y="159" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583154940904" />
-    <state width="1493" height="298" key="GridCell.Tab.0.bottom" timestamp="1583159779363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="395" key="GridCell.Tab.0.bottom" timestamp="1583222800079">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583159779363" />
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583159130206" />
-    <state width="1493" height="298" key="GridCell.Tab.0.center" timestamp="1583159779363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="395" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583222800079" />
+    <state width="1877" height="395" key="GridCell.Tab.0.center" timestamp="1583222800079">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="298" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583159779363" />
-    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583159130205" />
-    <state width="1493" height="298" key="GridCell.Tab.0.left" timestamp="1583159779363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="395" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583222800079" />
+    <state width="1877" height="395" key="GridCell.Tab.0.left" timestamp="1583222800079">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="298" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583159779363" />
-    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583159130204" />
-    <state width="1493" height="298" key="GridCell.Tab.0.right" timestamp="1583159779363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="395" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583222800079" />
+    <state width="1877" height="395" key="GridCell.Tab.0.right" timestamp="1583222800079">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="298" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583159779363" />
-    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583159130205" />
+    <state width="1877" height="395" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583222800079" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583159777734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,5 +193,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2545" y="219" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583154944277" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583220768871">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583220768871" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1583221834362">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583221834362" />
   </component>
 </project>
